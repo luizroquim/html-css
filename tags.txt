@@ -1,0 +1,3 @@
+TAGS
+Italico <em> ou <i>
+Negrito <strong> ou <b> 
